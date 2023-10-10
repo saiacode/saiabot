@@ -1,7 +1,6 @@
 # 💬 SAIA Bot
-```
+
 Esta aplicación es un chatbot que responde a información de SAIA, usa LLM construido, con LangChain y Streamlit.
-```
 
 Esta aplicación lee un pdf con la información de SAIA.
 
